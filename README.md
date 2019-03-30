@@ -1,6 +1,8 @@
+## ReactJS_Basic_HelloWorld
+
 Steps to follow after downloading the files
 
-1) Run "npm install" in the extracted folder
+1) Open cmd and run "npm install" in the extracted folder
 
 2) Run "npm start" to view the project in browser.
 
